@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "user-72b683d3-e8cf-4989-ab00-9e2555211747",
+      "username": "allan",
+      "name": "Richardo Allan Herlambang",
+      "role": "student",
+      "className": "9A",
+      "passwordSalt": "8da51b506a9661ce2128f8de5427e7f3",
+      "passwordHash": "b04cca4381198963868f4eeb113f1dbf35b5683300d4e8117fdbf3db281fe174017989727113da640fb3cad9a2a603725f572c834ee5a0fee519075f1cde20c9",
+      "createdAt": "2026-10-23T06:55:36.881Z"
+    },
+    {
+      "id": "user-7b2411bb-50c9-4dc1-85d1-8c86c663ac40",
+      "username": "miff",
+      "name": "Miftah",
+      "role": "teacher",
+      "className": "",
+      "passwordSalt": "54ee52ec4da3eb0586c0ff19629539a9",
+      "passwordHash": "6f624519fba439e38f63118b6d42cb6b11414557877a57128412816784277b8cdfb8f51d8477a1cb595d323bc25fc7a9e23be3969ce6f79ae73a544caa5d19c0",
+      "createdAt": "2026-10-23T06:59:41.475Z"
+    },
+    {
+      "id": "user-c6810da5-f91c-46b7-a5d5-3ae3375f2c18",
+      "username": "testing",
+      "name": "test",
+      "role": "student",
+      "className": "9b",
+      "passwordSalt": "1cc12753f52ef2eb05b7802475193c88",
+      "passwordHash": "ad575b6b0b95cc6f785fcbec787bb38fd80b465f6286d53cc7b3d714953b8149fc0c7160659cd69db70e3e35f643b72d2b50cc746fe5f8e9d004770efbf558dc",
+      "createdAt": "2026-11-07T15:31:40.297Z"
+    },
+    {
+      "id": "user-9a62988f-7bc9-4bd3-a96c-74aa509b3ea1",
+      "username": "panji",
+      "name": "Panji Wicaksono",
+      "role": "teacher",
+      "className": "",
+      "passwordSalt": "d08abdaf1c9a52e077147c6fe46e91f3",
+      "passwordHash": "0ac25edba366d5ab97b30806a668515d2e61c407dabd3811c830fa91cc2632fad3145b09de0a6ff96e60e924c75590c3ec8519086865df4605e20f1d895e3fe4",
+      "createdAt": "2026-11-08T00:00:07.877Z"
+    },
+    {
+      "id": "user-e73c46d4-f668-4467-88a3-19b6b51ad3f9",
+      "username": "test2",
+      "name": "test2",
+      "role": "student",
+      "className": "8a",
+      "passwordSalt": "ac764d7bfb36ab068901f2eaed5ea456",
+      "passwordHash": "2d82bb4c61e5ada68b3824965455ab553fb2f1af5b18462251221d2d3404bab1c1e2a48fa8c3f9df3da107476dc7040b51f6819e8df36b2062fd70d82613dc9c",
+      "createdAt": "2026-11-08T00:24:18.590Z"
+    }
+  ]
+}

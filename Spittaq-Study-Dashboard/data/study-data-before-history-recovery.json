@@ -1,0 +1,97 @@
+{
+  "tasks": [],
+  "subjects": [
+    {
+      "icon": "🕌",
+      "name": "Pendidikan Agama Islam",
+      "progress": 88,
+      "color": "#19b987"
+    },
+    {
+      "icon": "🇬🇧",
+      "name": "Bahasa Inggris",
+      "progress": 90,
+      "color": "#ff5b80"
+    },
+    {
+      "icon": "🚩",
+      "name": "PPKn",
+      "progress": 70,
+      "color": "#ffbb42"
+    },
+    {
+      "icon": "⚽",
+      "name": "PJOK",
+      "progress": 87,
+      "color": "#36c1c5"
+    },
+    {
+      "icon": "📘",
+      "name": "Bahasa Indonesia",
+      "progress": 82,
+      "color": "#4ba7ff"
+    },
+    {
+      "icon": "💻",
+      "name": "Informatika",
+      "progress": 92,
+      "color": "#7187ff"
+    },
+    {
+      "icon": "📐",
+      "name": "Matematika",
+      "progress": 85,
+      "color": "#b078f5"
+    },
+    {
+      "icon": "🎨",
+      "name": "Seni Budaya",
+      "progress": 80,
+      "color": "#bd7deb"
+    },
+    {
+      "icon": "⚗️",
+      "name": "IPA",
+      "progress": 75,
+      "color": "#48c6a0"
+    },
+    {
+      "icon": "🗿",
+      "name": "Bahasa Jawa",
+      "progress": 76,
+      "color": "#d7986b"
+    },
+    {
+      "icon": "🌍",
+      "name": "IPS",
+      "progress": 78,
+      "color": "#ffb347"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "submission-1792673054515",
+      "title": "p",
+      "subject": "Bahasa Inggris",
+      "note": "",
+      "fileName": "Chicken Pop with Mentai Sauce Infographic.pdf",
+      "downloadUrl": "/api/submissions/file/submission-1792673054514-2ctt4z.pdf",
+      "submittedAt": "2026-10-22T12:44:14.515Z",
+      "studentUserId": "user-72b683d3-e8cf-4989-ab00-9e2555211747",
+      "studentName": "Richardo Allan Herlambang"
+    },
+    {
+      "id": "submission-1792739081642",
+      "title": "PP",
+      "subject": "IPA",
+      "studentUserId": "user-72b683d3-e8cf-4989-ab00-9e2555211747",
+      "studentName": "Richardo Allan Herlambang",
+      "note": "",
+      "fileName": "1. Format Laporan.docx",
+      "downloadUrl": "/api/submissions/file/submission-1792739081640-te1zdi.docx",
+      "submittedAt": "2026-10-23T07:04:41.642Z",
+      "status": "Terkirim",
+      "feedback": ""
+    }
+  ]
+}

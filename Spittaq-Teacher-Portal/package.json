@@ -1,0 +1,13 @@
+{
+  "name": "spittaq-teacher-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portal guru Spittaq yang tersambung ke backend Study Buddy.",
+  "scripts": {
+    "start": "node ../Spittaq-Study-Dashboard/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "commonjs"
+}
